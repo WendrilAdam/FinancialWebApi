@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bkJGfaDqt/apmcY+4uvrZPmCZSy2cIDKdO3CKbplcDn3iCJsVNo+XPHTjQYZliuP68cYQ8rNoiyxLL4eSCKbXQ==",
+  "dgSpecHash": "78hm/YRuOULEEpYnkNYmSNrDIilDtAxbIBgYw6YP7KKw5yxnmLIusp79BuZHsXK+15qpUu1yNCDeoc/Bw9l03g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\casa\\source\\repos\\FinancialWebApi\\Project\\Project.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\casa\\source\\repos\\FinancialWebApi\\Project\\FinancialWebApi.Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\casa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\casa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\casa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
   "logs": []
 }
