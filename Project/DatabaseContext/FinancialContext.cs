@@ -31,14 +31,10 @@ namespace FinancialWebApi.Project.DatabaseContext
         {
             modelBuilder.Entity<Usuario>(entity =>
             {
-                entity.HasNoKey();
-
                 entity.Property(e => e.Cpf)
                     .IsRequired()
                     .HasColumnName("CPF")
                     .HasMaxLength(14);
-
-                entity.Property(e => e.Id).ValueGeneratedOnAdd();
 
                 entity.Property(e => e.NomeCompleto)
                     .IsRequired()
